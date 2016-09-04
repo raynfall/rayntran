@@ -1,0 +1,14 @@
+.navbar-nav {
+	float: right;
+}
+.navbar-inverse {
+	background: transparent;
+	border: none;
+}
+#profile-img {
+	width:100%;
+	border-radius: 50%;
+}
+.text-center {
+	text-align: center;
+}
